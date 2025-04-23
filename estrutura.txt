@@ -1,0 +1,22 @@
+# Estrutura do projeto sugerida:
+# Sistema-de-cadastro-de-Alunos-com-Relatorio/
+# ├── backend/
+# │   ├── app.py
+# │   ├── models.py
+# │   ├── relatorio.py
+# │   └── __init__.py
+# └── frontend/ (já criado com React)
+
+# ==== backend/__init__.py ====
+# (arquivo vazio apenas para indicar que 'backend' é um pacote)
+
+// Estrutura sugerida dentro da pasta frontend:
+// frontend/
+// ├── public/
+// └── src/
+//     ├── App.jsx
+//     ├── components/
+//     │   ├── AlunoForm.jsx
+//     │   └── AlunoList.jsx
+//     ├── api.js
+//     └── main.jsx
